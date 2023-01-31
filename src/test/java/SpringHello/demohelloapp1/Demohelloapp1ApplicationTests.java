@@ -1,0 +1,13 @@
+package SpringHello.demohelloapp1;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Demohelloapp1ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
